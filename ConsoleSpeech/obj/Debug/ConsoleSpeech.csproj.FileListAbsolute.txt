@@ -1,0 +1,8 @@
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\bin\Debug\ConsoleSpeech.exe.config
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\bin\Debug\ConsoleSpeech.exe
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\bin\Debug\ConsoleSpeech.pdb
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\bin\Debug\Microsoft.Speech.dll
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\obj\Debug\ConsoleSpeech.exe
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\obj\Debug\ConsoleSpeech.pdb
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\obj\Debug\ConsoleSpeech.csprojResolveAssemblyReference.cache
+c:\users\shenker\documents\visual studio 2015\Projects\ConsoleSpeech\ConsoleSpeech\bin\Debug\NAudio.dll
